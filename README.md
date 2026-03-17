@@ -1,4 +1,4 @@
-# AMM Chaotic Scenarios — Simulation Notebook
+# AMM Chaotic Scenarios — Simulation Notebooks
 
 This project explores the structural fragility of Automated Market Makers (AMMs) under chaotic market conditions using a custom AMM simulation environment.
 
